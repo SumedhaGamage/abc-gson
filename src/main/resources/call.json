@@ -1,0 +1,16 @@
+{
+  "Calls":{
+    "@xmlns":{
+      "$":"http:\/\/schema.broadsoft.com\/xsi"
+    },
+    "call":{
+      "@inConference":"false",
+      "callId":{
+        "$":"callhalf-8506475:0"
+      },
+      "uri":{
+        "$":"\/v2.0\/user\/us5000testv2@nextiva.com\/calls\/callhalf-8506475:0"
+      }
+    }
+  }
+}
